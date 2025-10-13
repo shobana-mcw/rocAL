@@ -2,6 +2,13 @@
 
 Full documentation for rocLibrary is available at [https://rocm.docs.amd.com/projects/rocAL/](https://rocm.docs.amd.com/projects/rocAL/en/latest/).
 
+## rocAL 2.5.0 (Unreleased)
+
+### Added
+
+### Changes
+* CXX Compiler: AMDClang++ - Use compiler core location `${ROCM_PATH}/lib/llvm/bin`
+
 ## rocAL 2.4.0 for ROCm 7.1.0
 
 ### Added
